@@ -1,1 +1,1 @@
-# Shopping-Cards
+Product Cards with HTML and CSS
